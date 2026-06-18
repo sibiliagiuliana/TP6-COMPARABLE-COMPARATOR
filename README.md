@@ -1,4 +1,4 @@
-# 🔤 TP6 — Ordenamiento de Objetos: Comparable, Comparator y Polimorfismo en Acción
+# 🔤 TP Ordenamiento de Objetos: Comparable, Comparator y Polimorfismo en Acción
 
 **Trabajo Práctico N° 6 — Programación III**
 Carrera: Ingeniería en Sistemas de Información
